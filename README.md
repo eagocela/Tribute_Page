@@ -5,4 +5,4 @@
     - Basic HTML and CSS
     - Artist: IU - Lee Ji Eun
 
-![Screenshot](Tribute_Page/Screenshot.jpg)
+![Screenshot](https://github.com/eagocela/Tribute_Page/Screenshot.jpg)
